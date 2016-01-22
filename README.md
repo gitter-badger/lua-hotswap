@@ -3,6 +3,8 @@
 
 # Require with hotswapping
 
+[![Join the chat at https://gitter.im/saucisson/lua-hotswap](https://badges.gitter.im/saucisson/lua-hotswap.svg)](https://gitter.im/saucisson/lua-hotswap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Sometimes, we would like to reload automatically an updated module
 within a long-running program. The `hotswap` module provides such
 functionality, using various backends for change detection.
